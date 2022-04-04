@@ -10,6 +10,7 @@ public class SeleniumTest {
 	public void testCase1()
 	{
 		System.out.println("Successfully Tested TestCase1");
+		System.out.println("Successfully Tested Web Automation");
 	}
 	
 	@Test
