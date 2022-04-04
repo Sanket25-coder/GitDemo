@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.457 s <<< FAILURE! - in TestSuite
+SanketLearning.Mavenjava.AppTest.shouldAnswerWithTrue  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at SanketLearning.Mavenjava.AppTest.shouldAnswerWithTrue(AppTest.java:18)
+
