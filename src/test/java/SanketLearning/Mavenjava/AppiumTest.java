@@ -8,6 +8,8 @@ public class AppiumTest {
 	public void nativeAppRun()
 	{
 		System.out.println("App Run successfully");
+		System.out.println("Project successfully copied");
+		System.out.println("Project starts editing by coder X ");
 	}
 	
 	@Test
